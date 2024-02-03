@@ -1,0 +1,12 @@
+# flyctl launch added from .gitignore
+# MacOS
+**/**/.DS_Store
+
+# Ignore VS Code
+.vscode
+
+# Ignore build files
+aux
+*.pdf
+*.html
+fly.toml
