@@ -1,6 +1,6 @@
-# 📋 Résumé + CV
+# 📋 Résumé
 
-A repository containing the LaTeX source of Erik Kurjak's résumé, curriculum vitae, and coverletter matter. Deployed with GitHub Actions to Fly.io.
+A repository containing the LaTeX source of Erik Kurjak's résumé. Deployed with GitHub Actions to Fly.io.
 
 ## 🔧 Building
 
@@ -38,7 +38,3 @@ A repository containing the LaTeX source of Erik Kurjak's résumé, curriculum v
   - Ensure whitespace is cropped from the SVG `viewBox`: <https://svgcrop.com/>
   - Minify and strip the resulting SVG: <https://jakearchibald.github.io/svgomg/>
   - Convert svg to png: `inkscape --export-type png -w 1024 --export-filename /path/to/new.png /path/to/my.svg`
-
-## 🔏 License
-
-This project is [MIT](./LICENSE) licensed. You are within your rights to fork my résumé and use it as your own, although you should probably change my name to yours!
