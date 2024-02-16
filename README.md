@@ -38,3 +38,7 @@ A repository containing the LaTeX source of Erik Kurjak's résumé. Deployed wit
   - Ensure whitespace is cropped from the SVG `viewBox`: <https://svgcrop.com/>
   - Minify and strip the resulting SVG: <https://jakearchibald.github.io/svgomg/>
   - Convert svg to png: `inkscape --export-type png -w 1024 --export-filename /path/to/new.png /path/to/my.svg`
+
+## TODO
+
+- [] import avatar/profile picture to the header
